@@ -17,7 +17,7 @@
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "ionicons": "^4.6.3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "pusher": "^3.0.0",
     "pusher-js": "^5.0.3",
     "react": "^16.10.2",
